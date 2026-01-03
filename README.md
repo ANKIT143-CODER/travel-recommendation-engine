@@ -107,7 +107,7 @@ Improves interpretability & explainability
 
 ✔ Visualized recommendations
 
-🎓 Academic Justification
+### 🎓 Academic Justification
 
 “Due to the absence of geographical coordinates, a hierarchical proximity model using zone and state information was applied. Visit duration and airport accessibility were incorporated to improve weekend travel feasibility.”
 
